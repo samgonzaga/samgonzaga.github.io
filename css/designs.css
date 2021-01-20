@@ -1,0 +1,248 @@
+﻿body
+{
+text-align:center;
+}
+
+.opening{
+height:auto;
+width:90%;
+background:#fff;
+margin: 0 auto;
+padding:0.5px;
+}
+
+
+#home{
+height:auto;
+width:68%; 
+background:#fff;
+margin:0 auto;
+padding:5px;
+}
+
+
+.text{
+width:90%;
+background:#738fc3;
+padding:0.5px;
+margin: 0 auto;
+color:white;
+}
+
+.logos{
+width:90%;
+background:#dcdcdc;
+padding:0.5px;
+margin: 0 auto;
+}
+
+
+#forms{
+width:90%;
+min-width:90%;
+background:#fff;
+margin: 0 auto;
+padding:0.5px;
+}
+
+#forms2{
+width:90%;
+min-width:90%;
+background:#4d989c;
+margin: 0 auto;
+padding:0.5px;
+}
+
+#themes{
+width:90%;
+min-width:90%;
+background:#fff;
+margin: 0 auto;
+padding:5px;
+}
+
+.information
+{
+width:90%;
+margin:0 auto;
+padding:5px;
+}
+
+#list
+{
+list-style-type:katakana;
+font-size:25px;
+font-family: 'Source Sans Pro';
+margin:5px;
+}
+
+#list2
+{
+list-style-type:katakana;
+font-size:28px;
+font-family: 'Source Sans Pro';
+margin:5px;
+}
+
+#list1
+{
+text-align:center;
+display:inline-block;
+}
+
+#horline
+{
+width:300px;
+border-bottom:2px solid black;
+}
+
+#horline2
+{
+width:300px;
+border-bottom:2px solid white;
+}
+
+#links
+{
+font-family: 'Source Sans Pro';
+font-size: 23px;
+}
+
+#paragraphs
+{
+text-align: justify; 
+font-size: 25px;
+line-height:1.5;
+text-indent:50px;
+font-family: 'Source Sans Pro';
+}
+
+#paragraphs2
+{
+text-align:center;
+font-size: 25px;
+line-height:1.5;
+text-indent:50px;
+font-family: 'Source Sans Pro';
+color:#f3f8ff;
+}
+
+#paragraphs3
+{
+text-align:center;
+font-size: 25px;
+line-height:1.5;
+text-indent:50px;
+font-family: 'Source Sans Pro';
+color:lightblue;
+}
+
+#paragraphs4
+{
+text-align: justify; 
+font-size: 25px;
+line-height:1.5;
+text-indent:50px;
+font-family: 'Source Sans Pro';
+color:white;
+}
+
+#subtitles
+{
+text-align: justify; 
+font-size: 30px;
+line-height:1.5;
+text-indent:50px;
+font-family: 'Source Sans Pro';
+}
+
+#mini-infos
+{
+style="text-align:center;
+font-size:17px;
+font-family: 'Source Sans Pro';
+}
+
+#greetings
+{
+text-align:center;
+font-family: 'Libre Baskerville';
+font-size:35px;
+}
+
+#mini-titles
+{
+text-align:center;
+font-family: 'Libre Baskerville';
+color:white;
+font-size:29px;
+}
+
+#mini-titles2
+{
+text-align:center;
+font-family: 'Libre Baskerville';
+color:#004b6f;
+font-size:29px;
+}
+
+#titles
+{
+text-align:center;
+font-family: 'Libre Baskerville';
+font-size:35px;
+}
+
+#titles2
+{
+text-align:center;
+font-family: 'Libre Baskerville';
+font-size:35px;
+color:white;
+}
+
+#short-intro
+{
+text-align: center; 
+font-size: 25px;
+padding:20px;
+font-family: 'Source Sans Pro';
+}
+
+#followme
+{
+text-align: center; 
+font-size: 20px;
+padding:5px;
+font-family: 'Source Sans Pro';
+color:#f3f8ff;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width:30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #ff6600;
+  color: white;
+}

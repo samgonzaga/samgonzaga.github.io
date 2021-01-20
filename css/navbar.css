@@ -1,0 +1,37 @@
+﻿.navbar 
+{
+  overflow: hidden;
+  position: fixed;
+  top:0;	
+  width: 100%;
+
+background-size:cover;
+ background:url('../images/navbar.gif'); 
+  z-index:10;
+  opacity: 0.9;
+}
+
+.navbar a {
+  font-weight:bold;
+  float: center;	
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background:#7abd91;
+  transition:0.8s;
+  }
+<!--
+.main 
+{
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; 
+}
+
+-->
